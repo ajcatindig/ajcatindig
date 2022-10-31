@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aj</h1><br><h3 align="center">A passionate software developer from Philippines.</h3><br><p align="left"> <a href="https://twitter.com/ajmczctndg" target="blank"><img src="https://img.shields.io/twitter/follow/ajmczctndg?logo=twitter&style=for-the-badge" alt="ajmczctndg" /></a> </p><br>
+<h1 align="center">Hi 👋, I'm Aj</h1>
+<h3 align="center">A passionate software developer from Philippines.</h3>
+<p align="left"> <a href="https://twitter.com/ajmczctndg" target="blank"><img src="https://img.shields.io/twitter/follow/ajmczctndg?logo=twitter&style=for-the-badge" alt="ajmczctndg" /></a> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on [i-Sining Mobile App](https://github.com/ajcatindig/iSining)<br>
