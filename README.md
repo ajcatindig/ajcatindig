@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on [i-Sining Mobile App](https://github.com/ajcatindig/iSining)<br>
-🌱 I’m currently learning Kotlin, Jetpack Compose, Software Architecture, ML and DL, and some web development stuff.<br>
+🌱 I’m currently learning **Kotlin, Jetpack Compose, Software Architecture, ML and DL, and some web development stuff**<br>
 🏫 I'm currently in my senior year in college pursuing **Bachelor of Science in Information Technology**<br>
 📫 Reach me at my email **ajcatindig18@gmail.com**<br>
 ⚡ Fun fact **I play guitar, watch anime, watch k-drama, listen to k-pop, and play some DOTA**
