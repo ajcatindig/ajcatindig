@@ -1,5 +1,10 @@
+<h1 align="center">Hi 👋, I'm Aj</h1><br><h3 align="center">A passionate software developer from Philippines.</h3><br><p align="left"> <a href="https://twitter.com/ajmczctndg" target="blank"><img src="https://img.shields.io/twitter/follow/ajmczctndg?logo=twitter&style=for-the-badge" alt="ajmczctndg" /></a> </p><br>
+
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Aj</h1><br><h3 align="center">A passionate software developer from Philippines.</h3><br><p align="left"> <a href="https://twitter.com/ajmczctndg" target="blank"><img src="https://img.shields.io/twitter/follow/ajmczctndg?logo=twitter&style=for-the-badge" alt="ajmczctndg" /></a> </p><br><br>🔭 I’m currently working on [i-Sining Mobile App](https://github.com/ajcatindig/iSining)<br>🌱 I’m currently learning Kotlin, Jetpack Compose, Software Architecture, ML and DL, and some web development stuff.<br>📫 Reach me at my email **ajcatindig18@gmail.com**<br>⚡ Fun fact **I play guitar, watch anime, watch k-drama, listen to k-pop, and play some DOTA**
+🔭 I’m currently working on [i-Sining Mobile App](https://github.com/ajcatindig/iSining)<br>
+🌱 I’m currently learning Kotlin, Jetpack Compose, Software Architecture, ML and DL, and some web development stuff.<br>
+📫 Reach me at my email **ajcatindig18@gmail.com**<br>
+⚡ Fun fact **I play guitar, watch anime, watch k-drama, listen to k-pop, and play some DOTA**
 
 
 ## 🌐 Socials:
