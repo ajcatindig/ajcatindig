@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/ajmczctndg" target="blank"><img src="https://img.shields.io/twitter/follow/ajmczctndg?logo=twitter&style=for-the-badge" alt="ajmczctndg" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on [MCBROAD Deployment System]<br>
+🔭 I’m currently working on **MCBROAD Deployment System**<br>
 🌱 I’m currently learning **Kotlin, Jetpack Compose, Software Architecture, ML and DL, and some web development stuff**<br>
 🏫 I studied **Bachelor of Science in Information Technology**<br>
 📫 Reach me at my email **ajcatindig18@gmail.com**<br>
